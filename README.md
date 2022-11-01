@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ianshaloom
-- 👀 I’m interested in Web development, Java applications and Ethical hacking.
+- 👀 I’m interested in Windows Applications, Web development, Java applications and Ethical hacking.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on Thee Trendy Main repo.
 - 📫 How to reach me Email me ianshaloom0@outlook.com
