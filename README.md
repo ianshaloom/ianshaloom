@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianshaloom
 - 👀 I’m interested in MultiPlartform Dev with Flutter and Windows Dev with .NET Framework.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning NodeJs.
 - 📫 How to reach me Email me ianshaloom0@outlook.com
 
 <!---
